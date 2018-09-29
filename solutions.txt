@@ -16,3 +16,5 @@
 16. We should split the problem in half at each step, so the first drop would be from the 50th floor. If the bulb doesn’t break the second drop would be from the 75th floor, if the bulb breaks, then try from the 63th floor and so on. If the bulb doesn’t break, try from the 88th floor and so on.
 17. Put pillars at the top corners.
 18. 2 times. We'll divide all the balls into 3 groups. Now weight any two groups. If they are not equal, take the heavier group, and compare two balls, if they are equal, than the other is heavier ball. If they are equal, let's compare two balls from 3th group with each other, if they are equal, then the remaining ball is different.
+19.
+20. I'll start comparing string characters from left and right, substructing left and adding right parameter in a loop, and returning palindrome string. Then comparing string's length with odd and even characters and taking the longest.
