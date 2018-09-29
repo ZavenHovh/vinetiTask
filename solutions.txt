@@ -1,1 +1,18 @@
 1. Dev
+2. javaScript, because it's working fast and is easy to understand, besides I'm not familiar to other languages very much.
+3. A linked list is a linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence. In its most basic form, each node contains: data, and a reference (in other words, a link) to the next node in the sequence.
+4. First of all I must understand if the queue has been arranged by my fault, if yes, I will ask for a forgiveness, then understand who is first, or if there are children, serve them firstly.
+5. Write on a paper.
+6. Money transition.
+7. Get the sum of numbers (using cycle), then the sum of 0 to 1 million numbers, and then sunstruct the sum from it, and you will get the missing number.
+8. 360 devide to 12 = 30.
+9. A simple method for this is to simply take the log of the number on base 2 and if you get an integer then number is power of 2.
+10. We’ll iterate over the duplicate JavaScript array and copy it to another array after checking if it already exists in the new array.
+11. Iterate over entire string. Iterate over the string one character at a time. For each character find if there is another similar character in the string after it. If there is one then return false. Else return true.
+12. The split() method splits a String object into an array of string by separating the string into sub strings. The reverse() method reverses an array in place. The first array element becomes the last and the last becomes the first. The join() method joins all elements of an array into a string. And we'll get reversed string.
+13. For every character in the given string, if the current character is the same as the last one then add 1 to the count. If it is not then, save what we have so far(previous letter and its count). And use the current character as to perform the rest of the loop, if it repeats then increase the count each time. In the end we check if the compressed string size < string size, if so then we know we are saving space and thus return the compressed string. Or else just return the same string as given.
+14. Count the number of 0s. Let count be C. Once we have count, we can put C 0s at the beginning and 1s at the remaining n – C positions in array.
+15. User friendly, for example with plastic pipes for getting bread without burning hands.
+16. We should split the problem in half at each step, so the first drop would be from the 50th floor. If the bulb doesn’t break the second drop would be from the 75th floor, the third from the 88th floor and so on.
+17. Put pillars from the top corners.
+18. 2 times. We'll divide all the balls into 3 groups. Now weight any two groups. If they are not equal, take the heavier group, and compare two balls, if they are equal, than the other is heavier ball. If they are equal, let's compare two balls from 3th group with each other, if they are equal, then the remaining ball is different.
